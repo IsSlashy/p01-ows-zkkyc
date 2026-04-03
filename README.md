@@ -194,7 +194,7 @@ console.log('Attestation:', result.attestationAddress.toBase58());
 ## Run the Demo
 
 ```bash
-git clone https://github.com/pmusic-volta/p01-ows-zkkyc
+git clone https://github.com/IsSlashy/p01-ows-zkkyc
 cd p01-ows-zkkyc
 npm install
 npx tsx src/demo.ts
