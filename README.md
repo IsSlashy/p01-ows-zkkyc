@@ -267,7 +267,7 @@ Output shows all 3 scenarios: anonymous payment, ZK-attested payment, and denied
 
 Built by **Volta Team** — solo developer, 3+ months of focused development.
 
-- 14 Solana programs deployed on devnet
+- 16 Solana programs deployed on devnet
 - 12 ZK circuits (6 Groth16 + 6 STARK)
 - 15-module TypeScript SDK
 - 3 client applications (mobile, extension, web)
